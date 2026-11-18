@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://gvk-datascience.g-v-k.cloud/sitemap.xml
